@@ -1,0 +1,6 @@
+Model,Avg Time,Avg Charges,Avg Battery,Avg Task Completion Rate
+SARSA,474.73,1.28,37.84,0.859
+Heuristic,475.56,1.0,35.38,0.929
+Q-Learning,475.59,1.0,34.49,0.926
+DoubleDQN,476.38,1.0,34.73,0.933
+DQN,476.55,1.0,32.19,0.931
